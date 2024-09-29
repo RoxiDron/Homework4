@@ -54,6 +54,7 @@ public class Main {
             System.out.println("В вагоне есть стоячие места");
         } else if (trainCarriage < 60 && trainCarriage > 102) {
             System.out.println("В вагоне нет мест");
+
         }
         //Задание 7
         int one = 1;
